@@ -1,0 +1,7 @@
+{
+  "threshold": 0.012993446551263332,
+  "mode": "percentile",
+  "percentile": 95,
+  "best_f1_threshold": 0.00405541155487299,
+  "score": "mean squared reconstruction error"
+}

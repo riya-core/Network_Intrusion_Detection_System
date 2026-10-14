@@ -1,0 +1,2 @@
+model,precision,recall,f1,false_pos_rate
+Autoencoder binary,0.9666050450235554,0.6790816540282375,0.7977262660564004,0.05
