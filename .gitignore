@@ -5,7 +5,10 @@ __pycache__/*
 
 # C extensions
 *.so
-
+# Ignore large packet capture files
+zeek/pcaps/*.pcap
+zeek/pcaps/*.pcap
+zeek/pcaps
 # Distribution / packaging
 .Python
 build/

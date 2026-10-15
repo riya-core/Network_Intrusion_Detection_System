@@ -1,0 +1,16 @@
+{"ts":1424219045.131204,"uid":"CuqBNc2NcBDzBmOUUe","id.orig_h":"175.45.176.2","id.orig_p":6621,"id.resp_h":"149.171.126.16","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\BROWSER","size":0}
+{"ts":1424219048.431654,"uid":"C8cofb4sp54R0ZbU7j","id.orig_h":"175.45.176.2","id.orig_p":47036,"id.resp_h":"149.171.126.13","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\SRVSVC","size":0}
+{"ts":1424219162.159581,"uid":"CXLYq52DLmBQsEyXOf","id.orig_h":"175.45.176.0","id.orig_p":9788,"id.resp_h":"149.171.126.11","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\LSARPC","size":0}
+{"ts":1424219898.996426,"uid":"Cha4eGpmIG8F35RC3","id.orig_h":"175.45.176.2","id.orig_p":7025,"id.resp_h":"149.171.126.17","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\spoolss","size":0}
+{"ts":1424220546.972173,"uid":"C4wRRW2CDmOvEUmQje","id.orig_h":"175.45.176.0","id.orig_p":48274,"id.resp_h":"149.171.126.14","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\ROUTER","size":0}
+{"ts":1424220564.495322,"uid":"CI2QdD239imOIKBFA9","id.orig_h":"175.45.176.2","id.orig_p":19948,"id.resp_h":"149.171.126.15","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\BROWSER","size":0}
+{"ts":1424220576.998784,"uid":"C4hZ0j1OQFAog4gmul","id.orig_h":"175.45.176.0","id.orig_p":49231,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\browser","size":0}
+{"ts":1424220665.839672,"uid":"CA0UdH2IrMKbikSpH9","id.orig_h":"175.45.176.0","id.orig_p":11063,"id.resp_h":"149.171.126.15","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\browser","size":0}
+{"ts":1424220762.357775,"uid":"C9zfbUJ8BBe77H2lj","id.orig_h":"175.45.176.2","id.orig_p":37974,"id.resp_h":"149.171.126.19","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\BROWSER","size":0}
+{"ts":1424220772.676477,"uid":"C0Cfvi6m6d39nogmk","id.orig_h":"175.45.176.2","id.orig_p":10801,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\srvsvc","size":0}
+{"ts":1424220783.793395,"uid":"C0Cfvi6m6d39nogmk","id.orig_h":"175.45.176.2","id.orig_p":10801,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\proc\\sys\\crypto\\fips_enabled","size":0}
+{"ts":1424220785.390901,"uid":"C0Cfvi6m6d39nogmk","id.orig_h":"175.45.176.2","id.orig_p":10801,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\RsPvzyRmfGhfG\\wireshark\\console.lua","size":0}
+{"ts":1424221133.927846,"uid":"Cpieiu1hkLdEPIn2I9","id.orig_h":"175.45.176.2","id.orig_p":19199,"id.resp_h":"149.171.126.11","id.resp_p":139,"action":"SMB::FILE_OPEN","name":"\\DNSSERVER","size":0}
+{"ts":1424221155.058795,"uid":"CFr7J325w60wvwIisd","id.orig_h":"175.45.176.2","id.orig_p":30985,"id.resp_h":"149.171.126.15","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\JTPgWgiugHHyHpIydgkuAFO\\lhrAhwGT\\Briefcase Database","size":0}
+{"ts":1424221180.648643,"uid":"C4GrEh1zNrKqTRWU87","id.orig_h":"175.45.176.1","id.orig_p":1949,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\H5cCI1vx\\F8x.lnk","size":0}
+{"ts":1424221181.108323,"uid":"C4GrEh1zNrKqTRWU87","id.orig_h":"175.45.176.1","id.orig_p":1949,"id.resp_h":"149.171.126.19","id.resp_p":445,"action":"SMB::FILE_OPEN","name":"\\H5cCI1vx\\z5USgUA3.dll","size":0}

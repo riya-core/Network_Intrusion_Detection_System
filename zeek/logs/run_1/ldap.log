@@ -1,0 +1,7 @@
+{"ts":1424220273.899733,"uid":"CZQ5A3VvaRURfjTQ2","id.orig_h":"175.45.176.1","id.orig_p":44928,"id.resp_h":"149.171.126.17","id.resp_p":389,"message_id":1,"version":3,"opcode":"bind simple","result":"success","object":"dc\\administrator","argument":"REDACTED"}
+{"ts":1424220390.825346,"uid":"C29HKo40gBHPt8cs4i","id.orig_h":"175.45.176.0","id.orig_p":37945,"id.resp_h":"149.171.126.11","id.resp_p":389,"message_id":1,"opcode":"add"}
+{"ts":1424220396.475506,"uid":"ChE4PI3JidolYRznde","id.orig_h":"175.45.176.3","id.orig_p":14523,"id.resp_h":"149.171.126.19","id.resp_p":389,"message_id":1,"version":3,"opcode":"bind simple","result":"success"}
+{"ts":1424220397.866394,"uid":"ChE4PI3JidolYRznde","id.orig_h":"175.45.176.3","id.orig_p":14523,"id.resp_h":"149.171.126.19","id.resp_p":389,"message_id":2,"opcode":"modify"}
+{"ts":1424221046.560288,"uid":"CfhjUImGORLeR2HOd","id.orig_h":"175.45.176.2","id.orig_p":1301,"id.resp_h":"149.171.126.16","id.resp_p":389,"message_id":1,"version":3,"opcode":"bind simple","result":"success"}
+{"ts":1424221046.764177,"uid":"CfhjUImGORLeR2HOd","id.orig_h":"175.45.176.2","id.orig_p":1301,"id.resp_h":"149.171.126.16","id.resp_p":389,"message_id":2,"opcode":"extended","object":"2.16.840.1.113719.1.27.100.84 (unknown)"}
+{"ts":1424221497.257342,"uid":"C7TCcn4xpFj2fbHyQe","id.orig_h":"175.45.176.1","id.orig_p":45725,"id.resp_h":"149.171.126.16","id.resp_p":389,"message_id":1,"version":3,"opcode":"bind simple","result":"success","object":"o=jirApvyCL,ou=HdnDjg,dc=HsJEkhrWVkTAr,dc=mBTEO","argument":"REDACTED"}
